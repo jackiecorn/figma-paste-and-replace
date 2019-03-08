@@ -1,0 +1,9 @@
+{
+	"id": "paste-and-replace",
+	"name": "Paste and Replace",
+	"author": "Jackie Chui",
+	"description": "Replace selections with a copied layer/frame/component.",
+	"instructions": "Copy an object (layer/frame/component), then right click on one or more other objects and select 'Paste and Replace'.",
+	"images": ["screenshots/screenshot1.jpg", "screenshots/screenshot2.jpg"],
+	"js": ["app.js"]
+}
